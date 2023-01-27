@@ -1,0 +1,18 @@
+#img_logo{
+  width: 80px;
+  border-radius: 100px;
+  box-shadow: 2px 2px 12px rgb(159, 126, 193);
+  ;
+}
+
+body{
+  font-family: 'Bebas Neue', cursive;
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+
+#div_footer{
+  background-color: #9a9ae1;
+  align-items: center;
+box-shadow: 2px 2px 12px #41dfff;
+border-radius: 10px
+}
